@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LocalizationTest</string>
+    <string name="textView">TextView!!!</string>
+    <string name="appTextView">AppTextView!!!</string>
+    <string name="button">Button!!!</string>
+    <string name="appButton">AppButton!!!</string>
+    <string name="item1">item1</string>
+</resources>
